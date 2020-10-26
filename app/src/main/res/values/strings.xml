@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Register Form</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="gender">Gender</string>
+    <string name="select">Select</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="register">Register</string>
+    <string name="agreement">I agree to term of use</string>
+
+</resources>
